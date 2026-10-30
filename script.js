@@ -71,6 +71,6 @@ document.getElementById('bookingForm').addEventListener('submit', event => {
   ].join('\n');
 
   // Primary enquiry number: 9657469781. Alternate contact: 9130932671.
-  const whatsappUrl = `https://wa.me/919657469781?text=${encodeURIComponent(message)}`;
+  const whatsappUrl = `https://wa.me/919130932671?text=${encodeURIComponent(message)}`;
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
 });
