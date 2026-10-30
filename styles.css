@@ -172,7 +172,7 @@
  .hero-image {
      position: absolute;
      inset: 0;
-     background: url("assets/Adiyogi_Solapur_Pilgrimage_Travel_Poster.jpg") center 52%/cover;
+     background: url("assets/adiyogi_solapur_pilgrimage_travel_poster.jpg") center 52%/cover;
      transform: scale(1.02);
      animation: heroZoom 18s ease-out forwards
  }
